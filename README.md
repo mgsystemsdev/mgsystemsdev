@@ -86,9 +86,9 @@ Though I’ve never held a traditional software title, my tools are **used in pr
 
 ## 🔍 Let’s Connect
 
-📫 **Email:** [mgonzalez869@gmail.com](mailto:mgonzalez869@gmail.com)  
+📫 **Email:** [mgonzalez869@gmail.com](mailto:mgsystemsdev@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/miguel-gonzalez-8a389791](https://www.linkedin.com/in/miguel-gonzalez-8a389791)  
-🌐 **Portfolio:** [mga210.github.io/DevProfile](https://mga210.github.io/DevProfile)
+🌐 **Portfolio:** [mga210.github.io/DevProfile](https://mgsystemsdev.github.io/Miguel-A-Gonzalez-portfolio)
 
 ---
 
