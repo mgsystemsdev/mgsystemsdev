@@ -1,5 +1,16 @@
-## Hi there 👋
-I'm Miguel A. Gonzalez Almonte
+
+# 👋 Hi, I'm Miguel A. Gonzalez Almonte
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on **AI-powered coordination tools** and decision-support agents using Python and GPT.
+- 🌱 I’m currently learning **AI engineering and neural networks** through IBM’s certification program.
+- 👯 I’m looking to collaborate on **internal tools, ops automation, and intelligent system design.**
+- 🤔 I’m looking for help with **getting my tools in front of startups and operational tech teams.**
+- 💬 Ask me about **replacing spreadsheets with real logic systems** and deploying agents that support non-technical users.
+- 📫 How to reach me: [mgsystemsdev@gmail.com](mailto:mgsystemsdev@gmail.com)
+
+---
 
 **AI Systems Builder • GPT Workflow Architect • Python Developer • Operational Technologist**
 
@@ -50,21 +61,21 @@ Though I’ve never held a traditional software title, my tools are **used in pr
 
 ## 🚀 Featured Projects
 
-### 🔹 [Make Ready Digital Board (DMRB)](https://github.com/mga210)
+### 🔹 Make Ready Digital Board (DMRB)
 *Production-deployed system for unit turnover coordination*
 - Reduced turnover time from **13–20 days → 7 days**
 - Built in Python (Pandas, PySide6, FastAPI), with SQLite → Supabase
 - Offline-safe logic, role-based flows, and full audit trail
 
-### 🔹 [Blueprint Buddy](https://github.com/mga210)
+### 🔹 Blueprint Buddy
 *GPT instruction builder for structured, logic-validated prompt creation*
 - Used to design reusable GPT flows with clean formatting and role prompts
 
-### 🔹 [System Pilot](https://github.com/mga210)
+### 🔹 System Pilot
 *GPT-powered architect assistant*
 - Translates raw ideas into modular system blueprints via recursive logic flows
 
-### 🔹 [Meta Code Sensei](https://github.com/mga210)
+### 🔹 Meta Code Sensei
 *GPT agent that teaches full-stack system thinking in Python*
 - Built around 12-phase modular recursion and learning flow control
 
@@ -86,9 +97,9 @@ Though I’ve never held a traditional software title, my tools are **used in pr
 
 ## 🔍 Let’s Connect
 
-📫 **Email:** [mgonzalez869@gmail.com](mailto:mgsystemsdev@gmail.com)  
+📫 **Email:** [mgsystemsdev@gmail.com](mailto:mgsystemsdev@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/miguel-gonzalez-8a389791](https://www.linkedin.com/in/miguel-gonzalez-8a389791)  
-🌐 **Portfolio:** [mga210.github.io/DevProfile](https://mgsystemsdev.github.io/Miguel-A-Gonzalez-portfolio)
+🌐 **Portfolio:** [mgsystemsdev.github.io/Miguel-A-Gonzalez-portfolio](https://mgsystemsdev.github.io/Miguel-A-Gonzalez-portfolio)
 
 ---
 
