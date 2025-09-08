@@ -16,6 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mg.systems.dev@gmail.com)
 
 📁 **Portfolio:** [mgsystemsdev.github.io/Miguel-A-Gonzalez-portfolio](https://mgsystemsdev.github.io/Miguel-A-Gonzalez-portfolio)
+
 📁 **Learning path coding with jupyter notebooks**  https://github.com/mgsystemsdev/code-learning-path
 
 ---
